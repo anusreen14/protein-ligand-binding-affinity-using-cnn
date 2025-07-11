@@ -86,8 +86,8 @@ python scripts/visualize_training.py
 
 | Metric | Value |
 |--------|-------|
-| RMSE   | 1.80  |
-| R²     | 0.11  |
+| RMSE   | 1.54  |
+ 
 
 ---
 
@@ -124,8 +124,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 ## 👩‍🔬 Credits
-
-Project by [Anusreen](https://github.com/anusreen14)  
+  
 Dataset: [PDBBind v2020 Refined Set](http://www.pdbbind.org.cn/)
 
 ---

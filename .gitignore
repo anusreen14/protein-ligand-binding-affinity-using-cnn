@@ -1,0 +1,12 @@
+# Ignore data & models
+data/train_grids.pkl
+data/train_labels.pkl
+models/
+outputs/
+venv/
+__pycache__/
+*.pkl
+*.h5
+*.keras
+*.pyc
+.DS_Store
